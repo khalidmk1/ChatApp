@@ -35,6 +35,6 @@ The application demonstrates the fundamentals of socket programming, multithread
 - JavaFX
 - TCP Sockets
 - Multithreading
-- Maven (for dependency management)
+  - Maven (for dependency management)
 
 
